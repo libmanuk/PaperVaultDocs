@@ -4,13 +4,15 @@ This digital newspaper platform offers a hybrid solution: leveraging the power o
 
 🔍 Discovery Layer: Alma/Primo
 
-* Alma manages the backend library operations, including metadata, holdings, and digital assets.  
+* Alma manages the backend library operations, including metadata/full-text indexing and microfilm holdings records.  
 
 * Primo serves as the discovery interface, allowing users to:  
 
-  - Search and browse newspaper titles, issues, and metadata.
+  - Search and browse digitized newspaper issues via full-text and metadata.
 
   - Access full records with embedded digital newspaper objects.
+ 
+  - Search and browse microfilm holdings records.
 
   - Utilize faceted navigation and advanced filtering.
 
